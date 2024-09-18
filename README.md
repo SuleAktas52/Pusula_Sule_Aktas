@@ -23,4 +23,4 @@ EDA bulgularına dayanarak gerçekleştirilen ön işleme adımları:
 
 Eksik Verilerin İşlenmesi: Eksik verileri ele almak için SimpleImputer yöntemi kullanıldı.
 
-## Dokümantasyon: EDA bulgularını ve ön işleme adımlarını özetleyen bir belge docs/ dizininde bulunmaktadır.
+## Dokümantasyon: EDA bulgularını ve ön işleme adımlarını özetleyen bir belge pdf/ dizininde bulunmaktadır.
