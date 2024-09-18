@@ -6,11 +6,13 @@
 Bu depo, ilaç yan etkileri ile ilgili bir veri setinin kapsamlı analizini içermektedir. Proje, veri setini keşfetmek (Exploratory Data Analysis - EDA) ve verileri modelleme için hazırlamak amacıyla veri ön işleme adımlarını kapsamaktadır.
 
 ##Proje Yapısı
-data/: Analizde kullanılan veri seti dosyalarını içerir.
-notebooks/: EDA ve veri ön işleme için Jupyter not defterleri.
-scripts/: Veri temizleme ve ön işleme için Python betikleri.
-docs/: EDA bulguları ve ön işleme adımlarını özetleyen belgeler.
-README.md: Bu dosya.
+
+- `data`: Analizde kullanılan veri seti dosyalarını içerir.
+
+- `notebooks` : EDA ve veri ön işleme için Jupyter not defterleri.
+-`scripts` : Veri temizleme ve ön işleme için Python betikleri.
+-`docs` : EDA bulguları ve ön işleme adımlarını özetleyen belgeler.
+-`README.md` : Bu dosya.
 
 ##Keşifsel Veri Analizi (EDA)
 EDA aşamasında gerçekleştirilen işlemler:
