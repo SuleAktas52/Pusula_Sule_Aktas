@@ -1,0 +1,2 @@
+# Pusula_Sule_Aktas
+ The task is to perform an in depth analysis and prepare the data for further predictive modeling.
