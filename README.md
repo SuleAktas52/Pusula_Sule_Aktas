@@ -8,9 +8,7 @@ Bu depo, ilaç yan etkileri ile ilgili bir veri setinin kapsamlı analizini içe
 ## Proje Yapısı
 
 - `data`: Analizde kullanılan veri seti dosyalarını içerir.
-
 - `notebooks` : EDA ve veri ön işleme için Jupyter not defterleri.
-- `scripts` : Veri temizleme ve ön işleme için Python betikleri.
 - `docs` : EDA bulguları ve ön işleme adımlarını özetleyen belgeler.
 - `README.md` : Bu dosya.
 
