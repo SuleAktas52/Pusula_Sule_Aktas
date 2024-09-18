@@ -1,6 +1,6 @@
 # ŞULE AKTAŞ 0suleaktas@gmail.com
 
-##İlaç Yan Etkileri Veri Seti Analizi
+## İlaç Yan Etkileri Veri Seti Analizi
 
 ## Genel Bakış
 Bu depo, ilaç yan etkileri ile ilgili bir veri setinin kapsamlı analizini içermektedir. Proje, veri setini keşfetmek (Exploratory Data Analysis - EDA) ve verileri modelleme için hazırlamak amacıyla veri ön işleme adımlarını kapsamaktadır.
