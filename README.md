@@ -23,6 +23,6 @@ Görselleştirme: Veri içindeki desenleri ve ilişkileri ortaya çıkarmak içi
 ## Veri Ön İşleme
 EDA bulgularına dayanarak gerçekleştirilen ön işleme adımları:
 
-Eksik Verilerin İşlenmesi: Eksik verileri ele almak için SimpleImputer gibi yöntemi kullanıldı.
+Eksik Verilerin İşlenmesi: Eksik verileri ele almak için SimpleImputer yöntemi kullanıldı.
 
 ## Dokümantasyon: EDA bulgularını ve ön işleme adımlarını özetleyen bir belge docs/ dizininde bulunmaktadır.
